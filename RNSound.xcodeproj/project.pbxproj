@@ -270,7 +270,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../react-native/React/**",
 					"$(SRCROOT)/node_moduels/react-native/React/**",
-					"$(SRCROOT)/../../../ios/Pods/Headers/Public/**",
+					"$(SRCROOT)/../../ios/Pods/Headers/Public/**",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -284,7 +284,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../react-native/React/**",
 					"$(SRCROOT)/node_moduels/react-native/React/**",
-					"$(SRCROOT)/../../../ios/Pods/Headers/Public/**",
+					"$(SRCROOT)/../../ios/Pods/Headers/Public/**",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
